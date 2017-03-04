@@ -153,7 +153,7 @@ Además, para los test, se crea una población de test
 >Se debe realizar en todas las capas: `Front-end >> API >> Controller >> DAOS >> Entities` y realizando los test oportunos de cada capa
 
 ## Populate
-> Feature-12. Autor: -- --
+> Feature-12. Autor: Eneas Macías y Tamara Jiménez
 
 >_**Permitir poblar las Bases de Datos a partir de un fichero en formato YAML**_. Sólo se podrá realizar con el Rol de ADMIN. En la petición, se le indicará el nombre del fichero.
 
